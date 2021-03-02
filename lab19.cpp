@@ -1,4 +1,4 @@
-// Please include header (lab19.h) here.
+#include "class.h"// Please include header (lab19.h) here.
 
 int main(){
 	srand(time(0));
